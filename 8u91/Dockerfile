@@ -1,4 +1,4 @@
-FROM centos:centos7.1.1503
+FROM centos:latest
 MAINTAINER uzresk
 
 ENV rpm_url=http://download.oracle.com/otn-pub/java/jdk/8u91-b14/jdk-8u91-linux-x64.rpm
